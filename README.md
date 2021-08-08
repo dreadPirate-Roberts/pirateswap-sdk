@@ -1,4 +1,4 @@
-# ApeSwap SDK
+# PirateSwap SDK
 
 ## Running tests
 
@@ -7,13 +7,13 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 First clone the repository:
 
 ```sh
-git clone https://github.com/ApeSwapFinance/apeswap-sdk.git
+git clone https://github.com/PirateSwap/pirateswap-sdk.git
 ```
 
 Move into the pancakeswap-sdk working directory
 
 ```sh
-cd apeswap-sdk/
+cd pirateswap-sdk/
 ```
 
 Install dependencies

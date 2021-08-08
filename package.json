@@ -1,14 +1,14 @@
 {
-  "name": "@apeswapfinance/sdk",
+  "name": "@pirateswap/sdk",
   "license": "MIT",
   "version": "1.0.4",
-  "description": "🛠 An SDK for building applications on top of apeswap.",
+  "description": "🛠 An SDK for building applications on top of pirateswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/ApeSwapFinance/apeswap-sdk",
+  "repository": "https://github.com/dreadPirate-Roberts/pirateswap-sdk",
   "keywords": [
     "pancakeswap",
     "ethereum"
